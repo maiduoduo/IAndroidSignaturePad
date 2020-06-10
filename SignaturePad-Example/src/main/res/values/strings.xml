@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">患者家属签字板</string>
+    <string name="agreement">我同意条件条款.</string>
+    <string name="clear_pad">清空</string>
+    <string name="save_signature">保存签名</string>
+
+</resources>
